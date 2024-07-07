@@ -3,3 +3,4 @@ Have a sweet dream!
 Hola amigo!
 changed by feature/change-password
 changed by feature/change-password local branch
+changed by feature/logout local branch
